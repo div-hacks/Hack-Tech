@@ -1,7 +1,6 @@
 # Hack-Tech
 Harness cutting-edge advancements to develop innovative technologies with broad utility.
 
-# Be Creative this Hacktoberfest
 Lets be creative this hacktober fest. Get started with contributing to open source.
 
 
