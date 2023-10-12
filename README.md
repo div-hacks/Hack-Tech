@@ -7,6 +7,7 @@ Lets be creative this hacktober fest. Get started with contributing to open sour
 
 
 #   <h1 align="center">🚀 Innovative-Ideas 🚀</h1>    
+![hack tech](https://github.com/div-hacks/Hack-Tech/assets/93466451/49458952-7ea8-4ca4-9c29-e10c51c55788)
 
 
 <img align="center" src="https://user-images.githubusercontent.com/56113566/136353444-47601e4b-115c-4190-8ac6-79d4137f9629.jpg" height="300px" width="800">
