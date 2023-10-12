@@ -10,10 +10,6 @@ Lets be creative this hacktober fest. Get started with contributing to open sour
 ![hack tech](https://github.com/div-hacks/Hack-Tech/assets/93466451/49458952-7ea8-4ca4-9c29-e10c51c55788)
 
 
-<img align="center" src="https://user-images.githubusercontent.com/56113566/136353444-47601e4b-115c-4190-8ac6-79d4137f9629.jpg" height="300px" width="800">
-
-
-
  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/div-hacks/Be-Creative-Hacktoberfest-2022/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/div-hacks/Be-Creative-Hacktoberfest-2022?style=for-the-badge" /></a> <a href="https://github.com/div-hacks/Be-Creative-Hacktoberfest-2022/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/div-hacks/Be-Creative-Hacktoberfest-2022?style=for-the-badge" /></a> 
 
 
