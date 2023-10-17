@@ -1,0 +1,14 @@
+body{
+    height: 200px;
+    width: 400px;
+    background-color: whitesmoke;
+}
+
+p{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+} 
