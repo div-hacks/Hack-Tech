@@ -1,8 +1,3 @@
-/*
-	
-	Title			: Hotel Management System
-
-*/
 
 #include<fstream.h>
 #include<iostream.h>
